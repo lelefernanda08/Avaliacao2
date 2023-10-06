@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: xx-large; 
+    color: aliceblue; 
+    text-align: center;
+}
+
+p{
+    font-size: xx-large; 
+    color: aliceblue; 
+    text-align: center;
+}
+
+img{
+width: 525px;
+height: 400px;
+margin-left: 100px;
+
+}
+
+header{
+color: black;
+
+}
+
+.cabecalho{
+background-color: aliceblue;
+display: flex;
+
+}
+
+.logoimg{
+width: 215px;
+height: 200px;
+margin-left: 30px;
+
+}
+
+.listacabecalho{
+display: flex;
+margin-top: 70px;
+
+}
+
+.itemlistacabecalho{
+list-style: none;
+text-transform: uppercase;
+font-size: 30px;
+color: black;
+padding-left: 90px;
+
+}
