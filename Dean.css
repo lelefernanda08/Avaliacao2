@@ -1,5 +1,5 @@
 img{
-width: 280px;
+width: 400px;
 height: 400px;
 margin-left: 30px;
     
@@ -10,3 +10,14 @@ p{
 text-align: center;
         
 }
+
+h1{
+text-align: center;
+        
+}
+    
+h2{
+color: aliceblue;
+margin-left: 63px;
+    
+    }
